@@ -1,9 +1,6 @@
-# Treinando Inputs  -   Range  Text  Number
+# Treinando Inputs  - Range  Text  Number
 
-- Number
-
-[![NPM](https://github.com/bea3853/Inputs/blob/master/LICENSE)
-
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/bea3853/Inputs/blob/master/LICENSE)
   
 
 #  Sobre o projeto
