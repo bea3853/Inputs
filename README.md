@@ -2,7 +2,7 @@
 
 - Number
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/bea3853/Calculadora/blob/main/LICENSE)
+[![NPM](https://github.com/bea3853/Inputs/blob/master/LICENSE)
 
   
 
